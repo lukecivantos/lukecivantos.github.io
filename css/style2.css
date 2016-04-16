@@ -1,0 +1,86 @@
+#bod {
+	background-color: White;
+}
+i {
+	padding: 2px;
+	margin-top: 10px;
+	float: right;
+}
+div.col-md-12 {
+	border-radius: 10px;
+	text-align: center;
+	height: 130px;
+	color: #333333;
+}
+#top {
+	background-color: LightBlue;
+	height: 38.2vh;
+	margin-bottom: 30px;
+}
+#name {
+	text-align: left;
+	font-size: 11vh;
+	font-family: Abel;
+	position: absolute;
+	color: black;
+	top: -30px;
+}
+#about {
+	background-color: Aqua;
+}
+#projects {
+	background-color: Coral;
+}
+#experience {
+	background-color: GreenYellow;
+}
+#contact {
+	background-color: MediumSlateBlue;
+}
+h1 {
+	padding: 20px;
+}
+#resume {
+	background-color: #337AB7;
+	text-align: center;
+	font-size: 15px;
+	border-radius: 5px;
+	float: right;
+	color: #ADD8E6;
+	width: 70px;
+	height: 25px;
+	margin-top: 13px;
+	margin-left: 2px;
+	padding-top: 2px;
+}
+#abtitle {
+	text-align: center;
+	margin-top: 140px;
+	font-family: Abel;
+	font-size: 60px
+}
+#pic {
+	width: 230px;
+	height: auto;
+	border: 1px solid black;
+	border-radius: 10%;
+}
+#bio {
+	font-size: 20px;
+}
+#proj1 {
+	width: 47%;
+	border: 1px solid black;
+	height: 50vh;
+	float: left;
+}
+#proj2 {
+	width: 47%;
+	border: 1px solid black;
+	float: right;
+	height: 50vh;
+}
+#email {
+	font-size: 20px;
+	text-align: center;
+}
