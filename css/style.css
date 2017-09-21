@@ -73,3 +73,7 @@ i {
 #space {
   height: 220px;
 }
+
+.card-text {
+  text-align: left;
+}
